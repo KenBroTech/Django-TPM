@@ -1,0 +1,21 @@
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: #227C9D !important;
+}
+.header-custome{
+    background-color: #227C9D !important;
+    color: white !important;
+}
+.card-custome{
+    box-shadow: 1px 1px 5px #999;
+}
+.card-custome:hover{
+    box-shadow: 1px 1px 5px rgb(20, 20, 20);
+    transform: rotateY(7);
+    transition: ease;
+}
+.modal-header{
+    background-color: #227C9D;
+}
